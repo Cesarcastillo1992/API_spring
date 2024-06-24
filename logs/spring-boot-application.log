@@ -1,17 +1,32 @@
-2024-06-22 21:53:18 - Starting PruebaRestApplication using Java 17.0.9 with PID 18040 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
-2024-06-22 21:53:18 - No active profile set, falling back to 1 default profile: "default"
-2024-06-22 21:53:26 - Tomcat initialized with port 8090 (http)
-2024-06-22 21:53:26 - Initializing ProtocolHandler ["http-nio-8090"]
-2024-06-22 21:53:26 - Starting service [Tomcat]
-2024-06-22 21:53:26 - Starting Servlet engine: [Apache Tomcat/10.1.25]
-2024-06-22 21:53:27 - Initializing Spring embedded WebApplicationContext
-2024-06-22 21:53:27 - Root WebApplicationContext: initialization completed in 7678 ms
-2024-06-22 21:53:29 - Starting ProtocolHandler ["http-nio-8090"]
-2024-06-22 21:53:29 - Tomcat started on port 8090 (http) with context path '/'
-2024-06-22 21:53:29 - Started PruebaRestApplication in 13.506 seconds (process running for 15.816)
-2024-06-22 21:53:45 - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2024-06-22 21:53:45 - Initializing Servlet 'dispatcherServlet'
-2024-06-22 21:53:45 - Completed initialization in 2 ms
-2024-06-22 21:53:45 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
-2024-06-22 21:54:20 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
-2024-06-22 21:54:20 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-24 10:31:35 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 
+2024-06-24 10:31:41 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-24 13:09:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:23:33 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:34:24 - Starting PruebaRestApplication using Java 17.0.9 with PID 10448 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 13:34:24 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 13:34:45 - Tomcat initialized with port 8090 (http)
+2024-06-24 13:34:46 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 13:34:46 - Starting service [Tomcat]
+2024-06-24 13:34:46 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 13:34:48 - Initializing Spring embedded WebApplicationContext
+2024-06-24 13:34:48 - Root WebApplicationContext: initialization completed in 22131 ms
+2024-06-24 13:35:04 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 13:35:05 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 13:35:05 - Started PruebaRestApplication in 47.169 seconds (process running for 53.367)
+2024-06-24 13:35:14 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 13:35:14 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 13:35:14 - Completed initialization in 3 ms
+2024-06-24 13:35:15 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:37:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:42:15 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:42:26 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:55:07 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:02:11 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:06:51 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:08:00 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:09:18 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:10:18 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:17:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:22:05 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:23:41 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 11111111
+2024-06-24 14:23:41 - Cliente no encontrado para numeroDocumento: 11111111

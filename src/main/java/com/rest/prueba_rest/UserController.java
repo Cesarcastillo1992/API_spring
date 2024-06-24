@@ -4,11 +4,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
+@CrossOrigin(origins="*", maxAge = 3600)
 @RestController
 @RequestMapping("/user")
 
@@ -24,13 +22,13 @@ public class UserController {
             } else if (!tipoDocumento.equals("C") && !tipoDocumento.equals("P")) {
                 logger.error("Tipo de documento inválido: {}", tipoDocumento);
                 return new ResponseEntity<>(HttpStatus.BAD_REQUEST);
-            } else if (!numeroDocumento.equals("23445322") || !tipoDocumento.equals("C")) {
+            } else if (!numeroDocumento.equals("23445322") || !tipoDocumento.equals("C")) { //for para buscar por cliente donde el documento sea igual
                 logger.warn("Cliente no encontrado para numeroDocumento: {}", numeroDocumento);
                 return new ResponseEntity<>(HttpStatus.NOT_FOUND);
             }
 
             Cliente usuario = new Cliente(
-                "Cesar",
+                "Cesar", //agregar tipo documneto y documento
                 "Geovani",
                 "Castillo",
                 "Lozano",
