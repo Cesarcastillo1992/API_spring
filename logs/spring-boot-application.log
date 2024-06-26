@@ -13,3 +13,26 @@
 2024-06-26 08:49:12 - Initializing Servlet 'dispatcherServlet'
 2024-06-26 08:49:12 - Completed initialization in 2 ms
 2024-06-26 08:49:26 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-26 09:52:57 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1111111
+2024-06-26 09:53:05 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1111111
+2024-06-26 09:54:24 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-26 09:54:31 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-26 09:54:36 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-26 09:54:43 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-26 09:57:19 - Starting PruebaRestApplication using Java 17.0.9 with PID 16744 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-26 09:57:19 - No active profile set, falling back to 1 default profile: "default"
+2024-06-26 09:57:28 - Tomcat initialized with port 8090 (http)
+2024-06-26 09:57:28 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-26 09:57:28 - Starting service [Tomcat]
+2024-06-26 09:57:28 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-26 09:57:28 - Initializing Spring embedded WebApplicationContext
+2024-06-26 09:57:28 - Root WebApplicationContext: initialization completed in 8483 ms
+2024-06-26 09:57:30 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-26 09:57:30 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-26 09:57:30 - Started PruebaRestApplication in 15.197 seconds (process running for 18.96)
+2024-06-26 09:57:44 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-26 09:57:44 - Initializing Servlet 'dispatcherServlet'
+2024-06-26 09:57:44 - Completed initialization in 2 ms
+2024-06-26 09:57:45 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-26 09:57:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-26 09:57:58 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532

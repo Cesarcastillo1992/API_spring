@@ -26,17 +26,6 @@ public class UserController {
                 "Centro",
                 "Bogota"
         ));
-//        clientes.add(new Cliente(
-//                "C",
-//                87654321,
-//                "Carla",
-//                "María",
-//                "Sánchez",
-//                "López",
-//                3012345678L,
-//                "Sur",
-//                "Cali"
-//        ));
     }
     @GetMapping("/info")
     public ResponseEntity<Cliente> getClienteInfo(@RequestParam String tipoDocumento, @RequestParam String numeroDocumento) {
@@ -57,7 +46,7 @@ public class UserController {
                 }
             }
             if (usuario == null) {
-                return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+                return new ResponseEntity<>(HttpStatus.OK);
             }
             return new ResponseEntity<>(usuario, HttpStatus.OK);
         } catch (Exception e) {
