@@ -1,0 +1,1035 @@
+2024-06-25 09:07:13 - Starting PruebaRestApplication using Java 17.0.9 with PID 18704 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 09:07:13 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 09:07:20 - Tomcat initialized with port 8090 (http)
+2024-06-25 09:07:20 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:07:20 - Starting service [Tomcat]
+2024-06-25 09:07:20 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 09:07:21 - Initializing Spring embedded WebApplicationContext
+2024-06-25 09:07:21 - Root WebApplicationContext: initialization completed in 6781 ms
+2024-06-25 09:07:25 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:07:25 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 09:07:25 - Started PruebaRestApplication in 15.201 seconds (process running for 17.391)
+2024-06-25 09:07:27 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 09:07:27 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 09:07:27 - Completed initialization in 6 ms
+2024-06-25 09:07:27 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 09:19:03 - Starting PruebaRestApplication using Java 17.0.9 with PID 26128 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 09:19:03 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 09:19:11 - Tomcat initialized with port 8090 (http)
+2024-06-25 09:19:12 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:19:12 - Starting service [Tomcat]
+2024-06-25 09:19:12 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 09:19:12 - Initializing Spring embedded WebApplicationContext
+2024-06-25 09:19:12 - Root WebApplicationContext: initialization completed in 8292 ms
+2024-06-25 09:19:15 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:19:15 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 09:19:15 - Started PruebaRestApplication in 17.359 seconds (process running for 19.093)
+2024-06-25 09:19:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 09:19:21 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 09:19:21 - Completed initialization in 2 ms
+2024-06-25 09:19:22 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 09:20:00 - Stopping ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:21:02 - Starting PruebaRestApplication using Java 17.0.9 with PID 24444 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 09:21:02 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 09:21:11 - Tomcat initialized with port 8090 (http)
+2024-06-25 09:21:11 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:21:11 - Starting service [Tomcat]
+2024-06-25 09:21:11 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 09:21:11 - Initializing Spring embedded WebApplicationContext
+2024-06-25 09:21:11 - Root WebApplicationContext: initialization completed in 8053 ms
+2024-06-25 09:21:13 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:21:14 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 09:21:14 - Started PruebaRestApplication in 15.319 seconds (process running for 17.398)
+2024-06-25 09:21:16 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 09:21:16 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 09:21:16 - Completed initialization in 2 ms
+2024-06-25 09:21:16 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 09:30:49 - Starting PruebaRestApplication using Java 17.0.9 with PID 652 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 09:30:49 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 09:30:57 - Tomcat initialized with port 8090 (http)
+2024-06-25 09:30:57 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:30:57 - Starting service [Tomcat]
+2024-06-25 09:30:57 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 09:30:57 - Initializing Spring embedded WebApplicationContext
+2024-06-25 09:30:57 - Root WebApplicationContext: initialization completed in 7570 ms
+2024-06-25 09:31:00 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 09:31:00 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 09:31:00 - Started PruebaRestApplication in 14.542 seconds (process running for 17.852)
+2024-06-25 09:31:18 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 09:31:18 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 09:31:18 - Completed initialization in 2 ms
+2024-06-25 09:31:19 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 10:44:02 - Starting PruebaRestApplication using Java 17.0.9 with PID 25944 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 10:44:02 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 10:44:08 - Tomcat initialized with port 8090 (http)
+2024-06-25 10:44:08 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 10:44:08 - Starting service [Tomcat]
+2024-06-25 10:44:08 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 10:44:08 - Initializing Spring embedded WebApplicationContext
+2024-06-25 10:44:08 - Root WebApplicationContext: initialization completed in 6247 ms
+2024-06-25 10:44:10 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 10:44:11 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 10:44:11 - Started PruebaRestApplication in 11.889 seconds (process running for 14.61)
+2024-06-25 10:44:22 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 10:44:22 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 10:44:22 - Completed initialization in 2 ms
+2024-06-25 10:44:23 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 10:45:59 - Starting PruebaRestApplication using Java 17.0.9 with PID 17024 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 10:45:59 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 10:46:07 - Tomcat initialized with port 8090 (http)
+2024-06-25 10:46:07 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 10:46:07 - Starting service [Tomcat]
+2024-06-25 10:46:07 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 10:46:07 - Initializing Spring embedded WebApplicationContext
+2024-06-25 10:46:07 - Root WebApplicationContext: initialization completed in 7459 ms
+2024-06-25 10:46:10 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 10:46:11 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 10:46:11 - Started PruebaRestApplication in 15.051 seconds (process running for 17.618)
+2024-06-25 10:46:20 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 10:46:20 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 10:46:20 - Completed initialization in 3 ms
+2024-06-25 10:46:20 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 10:46:29 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 10:46:29 - Cliente no encontrado para numeroDocumento: 23445323
+2024-06-25 10:46:35 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 10:46:35 - Cliente no encontrado para numeroDocumento: 23445323
+2024-06-25 10:46:40 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 10:47:21 - Stopping ProtocolHandler ["http-nio-8090"]
+2024-06-25 10:47:39 - Starting PruebaRestApplication using Java 17.0.9 with PID 7960 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 10:47:39 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 10:47:45 - Tomcat initialized with port 8090 (http)
+2024-06-25 10:47:45 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 10:47:45 - Starting service [Tomcat]
+2024-06-25 10:47:45 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 10:47:46 - Initializing Spring embedded WebApplicationContext
+2024-06-25 10:47:46 - Root WebApplicationContext: initialization completed in 6790 ms
+2024-06-25 10:47:49 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 10:47:50 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 10:47:51 - Started PruebaRestApplication in 14.148 seconds (process running for 15.711)
+2024-06-25 10:47:51 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 10:47:51 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 10:47:51 - Completed initialization in 3 ms
+2024-06-25 10:47:52 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 10:48:03 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 10:48:03 - Cliente no encontrado para numeroDocumento: 23445323
+2024-06-25 11:07:15 - Starting PruebaRestApplication using Java 17.0.9 with PID 26416 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 11:07:15 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 11:07:22 - Tomcat initialized with port 8090 (http)
+2024-06-25 11:07:22 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:07:22 - Starting service [Tomcat]
+2024-06-25 11:07:22 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 11:07:23 - Initializing Spring embedded WebApplicationContext
+2024-06-25 11:07:23 - Root WebApplicationContext: initialization completed in 6615 ms
+2024-06-25 11:07:25 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:07:25 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 11:07:25 - Started PruebaRestApplication in 11.96 seconds (process running for 13.583)
+2024-06-25 11:07:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 11:07:31 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 11:07:31 - Completed initialization in 2 ms
+2024-06-25 11:07:31 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:07:31 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:07:31 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:07:31 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:07:41 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:07:41 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:07:49 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:07:49 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:07:49 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:07:49 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:10:40 - Starting PruebaRestApplication using Java 17.0.9 with PID 23060 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 11:10:40 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 11:10:46 - Tomcat initialized with port 8090 (http)
+2024-06-25 11:10:46 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:10:46 - Starting service [Tomcat]
+2024-06-25 11:10:46 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 11:10:46 - Initializing Spring embedded WebApplicationContext
+2024-06-25 11:10:46 - Root WebApplicationContext: initialization completed in 5787 ms
+2024-06-25 11:10:48 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:10:48 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 11:10:48 - Started PruebaRestApplication in 11.056 seconds (process running for 12.555)
+2024-06-25 11:11:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 11:11:31 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 11:11:31 - Completed initialization in 2 ms
+2024-06-25 11:11:32 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:11:32 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:11:32 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:11:32 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:11:39 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:11:39 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:14:42 - Starting PruebaRestApplication using Java 17.0.9 with PID 6744 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 11:14:42 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 11:14:47 - Tomcat initialized with port 8090 (http)
+2024-06-25 11:14:48 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:14:48 - Starting service [Tomcat]
+2024-06-25 11:14:48 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 11:14:48 - Initializing Spring embedded WebApplicationContext
+2024-06-25 11:14:48 - Root WebApplicationContext: initialization completed in 5579 ms
+2024-06-25 11:14:51 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:14:51 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 11:14:51 - Started PruebaRestApplication in 11.291 seconds (process running for 12.881)
+2024-06-25 11:15:16 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 11:15:16 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 11:15:16 - Completed initialization in 10 ms
+2024-06-25 11:15:17 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:15:17 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:15:22 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:15:22 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:15:22 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:15:22 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:15:33 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:15:33 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:16:22 - Starting PruebaRestApplication using Java 17.0.9 with PID 4244 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 11:16:22 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 11:16:28 - Tomcat initialized with port 8090 (http)
+2024-06-25 11:16:28 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:16:28 - Starting service [Tomcat]
+2024-06-25 11:16:28 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 11:16:28 - Initializing Spring embedded WebApplicationContext
+2024-06-25 11:16:28 - Root WebApplicationContext: initialization completed in 6065 ms
+2024-06-25 11:16:31 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:16:31 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 11:16:31 - Started PruebaRestApplication in 12.296 seconds (process running for 13.961)
+2024-06-25 11:16:40 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 11:16:40 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 11:16:40 - Completed initialization in 2 ms
+2024-06-25 11:16:40 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:16:40 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:16:48 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:16:48 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:16:48 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:16:48 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:35:24 - Starting PruebaRestApplication using Java 17.0.9 with PID 23736 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 11:35:24 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 11:35:30 - Tomcat initialized with port 8090 (http)
+2024-06-25 11:35:31 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:35:31 - Starting service [Tomcat]
+2024-06-25 11:35:31 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 11:35:31 - Initializing Spring embedded WebApplicationContext
+2024-06-25 11:35:31 - Root WebApplicationContext: initialization completed in 6917 ms
+2024-06-25 11:35:33 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:35:33 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 11:35:33 - Started PruebaRestApplication in 12.414 seconds (process running for 14.128)
+2024-06-25 11:35:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 11:35:48 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 11:35:48 - Completed initialization in 4 ms
+2024-06-25 11:35:49 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:35:49 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:35:49 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:35:49 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445323
+2024-06-25 11:35:55 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:35:55 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:46:43 - Starting PruebaRestApplication using Java 17.0.9 with PID 1596 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 11:46:43 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 11:46:49 - Tomcat initialized with port 8090 (http)
+2024-06-25 11:46:49 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:46:49 - Starting service [Tomcat]
+2024-06-25 11:46:49 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 11:46:50 - Initializing Spring embedded WebApplicationContext
+2024-06-25 11:46:50 - Root WebApplicationContext: initialization completed in 5844 ms
+2024-06-25 11:46:52 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 11:46:52 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 11:46:52 - Started PruebaRestApplication in 11.873 seconds (process running for 13.435)
+2024-06-25 11:47:11 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 11:47:11 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 11:47:11 - Completed initialization in 8 ms
+2024-06-25 11:47:11 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 11:47:11 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:07:49 - Starting PruebaRestApplication using Java 17.0.9 with PID 11236 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 12:07:49 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 12:07:56 - Tomcat initialized with port 8090 (http)
+2024-06-25 12:07:56 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:07:56 - Starting service [Tomcat]
+2024-06-25 12:07:56 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 12:07:56 - Initializing Spring embedded WebApplicationContext
+2024-06-25 12:07:56 - Root WebApplicationContext: initialization completed in 6247 ms
+2024-06-25 12:07:59 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:08:00 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 12:08:00 - Started PruebaRestApplication in 13.801 seconds (process running for 15.605)
+2024-06-25 12:08:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 12:08:03 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 12:08:03 - Completed initialization in 3 ms
+2024-06-25 12:08:03 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:08:03 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:15:00 - Starting PruebaRestApplication using Java 17.0.9 with PID 1460 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 12:15:00 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 12:15:07 - Tomcat initialized with port 8090 (http)
+2024-06-25 12:15:07 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:15:07 - Starting service [Tomcat]
+2024-06-25 12:15:07 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 12:15:07 - Initializing Spring embedded WebApplicationContext
+2024-06-25 12:15:07 - Root WebApplicationContext: initialization completed in 6838 ms
+2024-06-25 12:15:10 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:15:10 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 12:15:10 - Started PruebaRestApplication in 13.638 seconds (process running for 15.142)
+2024-06-25 12:32:18 - Starting PruebaRestApplication using Java 17.0.9 with PID 18712 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 12:32:18 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 12:32:26 - Tomcat initialized with port 8090 (http)
+2024-06-25 12:32:26 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:32:26 - Starting service [Tomcat]
+2024-06-25 12:32:26 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 12:32:27 - Initializing Spring embedded WebApplicationContext
+2024-06-25 12:32:27 - Root WebApplicationContext: initialization completed in 8283 ms
+2024-06-25 12:32:29 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:32:29 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 12:32:29 - Started PruebaRestApplication in 14.288 seconds (process running for 15.993)
+2024-06-25 12:32:44 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 12:32:44 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 12:32:44 - Completed initialization in 2 ms
+2024-06-25 12:32:45 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:32:45 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:32:45 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:32:45 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:42:41 - Starting PruebaRestApplication using Java 17.0.9 with PID 14136 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 12:42:41 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 12:42:49 - Tomcat initialized with port 8090 (http)
+2024-06-25 12:42:49 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:42:49 - Starting service [Tomcat]
+2024-06-25 12:42:49 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 12:42:50 - Initializing Spring embedded WebApplicationContext
+2024-06-25 12:42:50 - Root WebApplicationContext: initialization completed in 8267 ms
+2024-06-25 12:42:51 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 12:42:51 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 12:42:52 - Started PruebaRestApplication in 14.583 seconds (process running for 16.492)
+2024-06-25 12:42:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 12:42:53 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 12:42:53 - Completed initialization in 2 ms
+2024-06-25 12:42:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 12:42:53 - Buscando cliente para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 12:42:53 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 12:43:01 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:43:01 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 12:43:01 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:08:36 - Starting PruebaRestApplication using Java 17.0.9 with PID 17612 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:08:36 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:08:43 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:08:43 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:08:43 - Starting service [Tomcat]
+2024-06-25 13:08:43 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:08:43 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:08:43 - Root WebApplicationContext: initialization completed in 7149 ms
+2024-06-25 13:08:45 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:08:46 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:08:46 - Started PruebaRestApplication in 12.406 seconds (process running for 13.977)
+2024-06-25 13:08:57 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:08:57 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:08:57 - Completed initialization in 2 ms
+2024-06-25 13:08:57 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:08:57 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:08:57 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:09:29 - Stopping ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:09:46 - Starting PruebaRestApplication using Java 17.0.9 with PID 3564 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:09:46 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:09:52 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:09:52 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:09:52 - Starting service [Tomcat]
+2024-06-25 13:09:52 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:09:53 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:09:53 - Root WebApplicationContext: initialization completed in 6247 ms
+2024-06-25 13:09:55 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:09:55 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:09:55 - Started PruebaRestApplication in 11.786 seconds (process running for 13.562)
+2024-06-25 13:10:01 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:10:01 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:10:01 - Completed initialization in 2 ms
+2024-06-25 13:10:01 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:10:01 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:10:01 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:11:59 - Starting PruebaRestApplication using Java 17.0.9 with PID 20600 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:12:00 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:12:10 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:12:10 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:12:10 - Starting service [Tomcat]
+2024-06-25 13:12:10 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:12:11 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:12:11 - Root WebApplicationContext: initialization completed in 10478 ms
+2024-06-25 13:12:15 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:12:15 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:12:15 - Started PruebaRestApplication in 19.292 seconds (process running for 20.907)
+2024-06-25 13:12:19 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:12:19 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:12:19 - Completed initialization in 2 ms
+2024-06-25 13:12:20 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:12:20 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:12:20 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:12:20 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:13:00 - Starting PruebaRestApplication using Java 17.0.9 with PID 9452 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:13:00 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:13:06 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:13:07 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:13:07 - Starting service [Tomcat]
+2024-06-25 13:13:07 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:13:07 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:13:07 - Root WebApplicationContext: initialization completed in 6062 ms
+2024-06-25 13:13:10 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:13:10 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:13:10 - Started PruebaRestApplication in 14.093 seconds (process running for 15.661)
+2024-06-25 13:13:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:13:26 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:13:26 - Completed initialization in 2 ms
+2024-06-25 13:13:27 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:13:27 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:13:27 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:13:27 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:14:18 - Starting PruebaRestApplication using Java 17.0.9 with PID 3376 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:14:18 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:14:26 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:14:26 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:14:26 - Starting service [Tomcat]
+2024-06-25 13:14:26 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:14:26 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:14:26 - Root WebApplicationContext: initialization completed in 7251 ms
+2024-06-25 13:14:30 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:14:30 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:14:30 - Started PruebaRestApplication in 14.113 seconds (process running for 15.72)
+2024-06-25 13:14:52 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:14:52 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:14:52 - Completed initialization in 2 ms
+2024-06-25 13:14:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:14:53 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:14:53 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:14:53 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:16:08 - Starting PruebaRestApplication using Java 17.0.9 with PID 15416 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:16:08 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:16:14 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:16:14 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:16:14 - Starting service [Tomcat]
+2024-06-25 13:16:14 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:16:15 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:16:15 - Root WebApplicationContext: initialization completed in 5935 ms
+2024-06-25 13:16:17 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:16:17 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:16:17 - Started PruebaRestApplication in 11.765 seconds (process running for 13.345)
+2024-06-25 13:16:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:16:28 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:16:28 - Completed initialization in 9 ms
+2024-06-25 13:16:28 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:16:28 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:16:28 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:16:28 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:17:23 - Starting PruebaRestApplication using Java 17.0.9 with PID 14048 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:17:23 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:17:30 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:17:30 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:17:30 - Starting service [Tomcat]
+2024-06-25 13:17:30 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:17:30 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:17:30 - Root WebApplicationContext: initialization completed in 6903 ms
+2024-06-25 13:17:33 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:17:33 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:17:33 - Started PruebaRestApplication in 12.836 seconds (process running for 14.272)
+2024-06-25 13:33:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:33:26 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:33:26 - Completed initialization in 3 ms
+2024-06-25 13:33:28 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:33:28 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:33:28 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:33:28 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:34:17 - Starting PruebaRestApplication using Java 17.0.9 with PID 5840 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:34:17 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:34:26 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:34:26 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:34:26 - Starting service [Tomcat]
+2024-06-25 13:34:26 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:34:28 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:34:28 - Root WebApplicationContext: initialization completed in 10513 ms
+2024-06-25 13:34:31 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:34:32 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:34:32 - Started PruebaRestApplication in 17.783 seconds (process running for 25.002)
+2024-06-25 13:34:37 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:34:37 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:34:37 - Completed initialization in 2 ms
+2024-06-25 13:34:37 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:34:37 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:34:37 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:34:37 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:35:26 - Starting PruebaRestApplication using Java 17.0.9 with PID 21164 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:35:26 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:35:33 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:35:34 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:35:34 - Starting service [Tomcat]
+2024-06-25 13:35:34 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:35:34 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:35:34 - Root WebApplicationContext: initialization completed in 7577 ms
+2024-06-25 13:35:37 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:35:37 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:35:37 - Started PruebaRestApplication in 13.78 seconds (process running for 15.606)
+2024-06-25 13:35:43 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:35:43 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:35:43 - Completed initialization in 2 ms
+2024-06-25 13:35:43 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:35:43 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:35:43 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:35:43 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:36:38 - Starting PruebaRestApplication using Java 17.0.9 with PID 22176 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:36:38 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:36:45 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:36:45 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:36:45 - Starting service [Tomcat]
+2024-06-25 13:36:45 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:36:45 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:36:45 - Root WebApplicationContext: initialization completed in 6467 ms
+2024-06-25 13:36:48 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:36:48 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:36:48 - Started PruebaRestApplication in 13.505 seconds (process running for 15.355)
+2024-06-25 13:36:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 13:36:53 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 13:36:53 - Completed initialization in 2 ms
+2024-06-25 13:36:54 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:36:54 - Buscando cliente para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:36:54 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:36:54 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 13:57:57 - Starting PruebaRestApplication using Java 17.0.9 with PID 11544 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 13:57:57 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 13:58:09 - Tomcat initialized with port 8090 (http)
+2024-06-25 13:58:09 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:58:09 - Starting service [Tomcat]
+2024-06-25 13:58:09 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 13:58:09 - Initializing Spring embedded WebApplicationContext
+2024-06-25 13:58:09 - Root WebApplicationContext: initialization completed in 11570 ms
+2024-06-25 13:58:13 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 13:58:13 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 13:58:13 - Started PruebaRestApplication in 18.949 seconds (process running for 21.725)
+2024-06-25 14:12:13 - Starting PruebaRestApplication using Java 17.0.9 with PID 1132 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 14:12:13 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 14:12:19 - Tomcat initialized with port 8090 (http)
+2024-06-25 14:12:20 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 14:12:20 - Starting service [Tomcat]
+2024-06-25 14:12:20 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 14:12:20 - Initializing Spring embedded WebApplicationContext
+2024-06-25 14:12:20 - Root WebApplicationContext: initialization completed in 6576 ms
+2024-06-25 14:12:24 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 14:12:26 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 14:12:26 - Started PruebaRestApplication in 15.393 seconds (process running for 17.286)
+2024-06-25 14:12:30 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 14:12:30 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 14:12:30 - Completed initialization in 8 ms
+2024-06-25 14:12:30 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 14:22:19 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 14:27:23 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 14:28:05 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1234544
+2024-06-25 14:28:05 - Cliente no encontrado para numeroDocumento: 1234544
+2024-06-25 14:28:09 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1234544
+2024-06-25 14:28:09 - Cliente no encontrado para numeroDocumento: 1234544
+2024-06-25 14:32:35 - Starting PruebaRestApplication using Java 17.0.9 with PID 20832 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 14:32:35 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 14:32:56 - Tomcat initialized with port 8090 (http)
+2024-06-25 14:32:57 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 14:32:57 - Starting service [Tomcat]
+2024-06-25 14:32:57 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 14:32:58 - Initializing Spring embedded WebApplicationContext
+2024-06-25 14:32:58 - Root WebApplicationContext: initialization completed in 21595 ms
+2024-06-25 14:33:07 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 14:33:08 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 14:33:08 - Started PruebaRestApplication in 45.113 seconds (process running for 49.238)
+2024-06-25 14:34:37 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 14:34:37 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 14:34:37 - Completed initialization in 13 ms
+2024-06-25 14:34:38 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 14:34:47 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 14:34:47 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-25 14:42:08 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 14:42:08 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-25 14:42:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 14:42:44 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-25 14:49:16 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 16:14:20 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 16:17:36 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 16:20:26 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 16:39:30 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 16:39:43 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 16:39:43 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-25 16:39:58 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 16:41:23 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 16:42:27 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 17:04:16 - Starting PruebaRestApplication using Java 17.0.9 with PID 9272 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:04:16 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:04:27 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:04:27 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:04:27 - Starting service [Tomcat]
+2024-06-25 17:04:27 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:04:28 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:04:28 - Root WebApplicationContext: initialization completed in 11433 ms
+2024-06-25 17:04:30 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:04:31 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:04:31 - Started PruebaRestApplication in 18.398 seconds (process running for 20.758)
+2024-06-25 17:04:44 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:04:44 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:04:44 - Completed initialization in 79 ms
+2024-06-25 17:04:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 17:04:54 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 98765432
+2024-06-25 17:04:54 - Cliente no encontrado para tipoDocumento: C y numeroDocumento: 98765432
+2024-06-25 17:05:32 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 98765432
+2024-06-25 17:09:33 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:09:33 - Cliente no encontrado para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:10:21 - Starting PruebaRestApplication using Java 17.0.9 with PID 5604 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:10:21 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:10:29 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:10:29 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:10:29 - Starting service [Tomcat]
+2024-06-25 17:10:29 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:10:30 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:10:30 - Root WebApplicationContext: initialization completed in 7817 ms
+2024-06-25 17:10:32 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:10:32 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:10:32 - Started PruebaRestApplication in 14.281 seconds (process running for 15.864)
+2024-06-25 17:11:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:11:21 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:11:21 - Completed initialization in 4 ms
+2024-06-25 17:11:22 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:11:22 - Cliente no encontrado para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:13:15 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:13:15 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:13:22 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:13:22 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:14:24 - Starting PruebaRestApplication using Java 17.0.9 with PID 8712 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:14:24 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:14:36 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:14:36 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:14:36 - Starting service [Tomcat]
+2024-06-25 17:14:36 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:14:38 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:14:38 - Root WebApplicationContext: initialization completed in 11892 ms
+2024-06-25 17:14:40 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:14:41 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:14:41 - Started PruebaRestApplication in 22.195 seconds (process running for 24.864)
+2024-06-25 17:14:46 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:14:46 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:14:46 - Completed initialization in 2 ms
+2024-06-25 17:16:55 - Starting PruebaRestApplication using Java 17.0.9 with PID 15580 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:16:55 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:17:03 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:17:03 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:17:03 - Starting service [Tomcat]
+2024-06-25 17:17:03 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:17:04 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:17:04 - Root WebApplicationContext: initialization completed in 8315 ms
+2024-06-25 17:17:06 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:17:07 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:17:07 - Started PruebaRestApplication in 15.348 seconds (process running for 17.165)
+2024-06-25 17:21:09 - Stopping ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:21:26 - Starting PruebaRestApplication using Java 17.0.9 with PID 8020 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:21:26 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:21:34 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:21:34 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:21:34 - Starting service [Tomcat]
+2024-06-25 17:21:34 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:21:34 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:21:34 - Root WebApplicationContext: initialization completed in 7397 ms
+2024-06-25 17:21:37 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:21:38 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:21:38 - Started PruebaRestApplication in 14.028 seconds (process running for 15.883)
+2024-06-25 17:22:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:22:48 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:22:48 - Completed initialization in 8 ms
+2024-06-25 17:22:49 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 98765432
+2024-06-25 17:27:14 - Starting PruebaRestApplication using Java 17.0.9 with PID 16064 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:27:14 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:27:20 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:27:20 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:27:20 - Starting service [Tomcat]
+2024-06-25 17:27:20 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:27:21 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:27:21 - Root WebApplicationContext: initialization completed in 6654 ms
+2024-06-25 17:27:25 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:27:25 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:27:25 - Started PruebaRestApplication in 13.736 seconds (process running for 15.227)
+2024-06-25 17:27:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:27:31 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:27:31 - Completed initialization in 3 ms
+2024-06-25 17:27:39 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 98765432
+2024-06-25 17:27:47 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:27:47 - Cliente no encontrado para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:27:52 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:27:52 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:28:00 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:28:00 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:29:39 - Starting PruebaRestApplication using Java 17.0.9 with PID 4288 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:29:39 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:29:47 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:29:47 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:29:47 - Starting service [Tomcat]
+2024-06-25 17:29:47 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:29:48 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:29:48 - Root WebApplicationContext: initialization completed in 8257 ms
+2024-06-25 17:29:50 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:29:50 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:29:50 - Started PruebaRestApplication in 13.943 seconds (process running for 15.924)
+2024-06-25 17:30:11 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:30:11 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:30:11 - Completed initialization in 3 ms
+2024-06-25 17:30:12 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:30:12 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:38:26 - Starting PruebaRestApplication using Java 17.0.9 with PID 25456 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:38:26 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:38:33 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:38:33 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:38:33 - Starting service [Tomcat]
+2024-06-25 17:38:33 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:38:34 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:38:34 - Root WebApplicationContext: initialization completed in 7641 ms
+2024-06-25 17:38:37 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:38:37 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:38:37 - Started PruebaRestApplication in 14.291 seconds (process running for 16.051)
+2024-06-25 17:38:46 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:38:46 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:38:46 - Completed initialization in 9 ms
+2024-06-25 17:38:47 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:38:47 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:38:57 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:38:57 - Cliente no encontrado para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:39:02 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 98765432
+2024-06-25 17:41:03 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:41:03 - Cliente no encontrado para tipoDocumento: P y numeroDocumento: 987654
+2024-06-25 17:41:09 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:41:09 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:43:28 - Starting PruebaRestApplication using Java 17.0.9 with PID 22420 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:43:28 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:43:36 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:43:36 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:43:36 - Starting service [Tomcat]
+2024-06-25 17:43:36 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:43:36 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:43:36 - Root WebApplicationContext: initialization completed in 7493 ms
+2024-06-25 17:43:40 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:43:41 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:43:41 - Started PruebaRestApplication in 15.227 seconds (process running for 17.016)
+2024-06-25 17:43:52 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:43:52 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:43:52 - Completed initialization in 8 ms
+2024-06-25 17:43:52 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:43:52 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 17:48:01 - Starting PruebaRestApplication using Java 17.0.9 with PID 9776 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 17:48:01 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 17:48:10 - Tomcat initialized with port 8090 (http)
+2024-06-25 17:48:10 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:48:10 - Starting service [Tomcat]
+2024-06-25 17:48:10 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 17:48:11 - Initializing Spring embedded WebApplicationContext
+2024-06-25 17:48:11 - Root WebApplicationContext: initialization completed in 9000 ms
+2024-06-25 17:48:13 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 17:48:13 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 17:48:13 - Started PruebaRestApplication in 14.808 seconds (process running for 16.638)
+2024-06-25 17:48:35 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 17:48:35 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 17:48:35 - Completed initialization in 15 ms
+2024-06-25 17:48:37 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 17:48:37 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 18:07:16 - Starting PruebaRestApplication using Java 17.0.9 with PID 18152 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:07:16 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:07:22 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:07:22 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:07:22 - Starting service [Tomcat]
+2024-06-25 18:07:22 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:07:23 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:07:23 - Root WebApplicationContext: initialization completed in 6335 ms
+2024-06-25 18:07:24 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:07:25 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:07:25 - Started PruebaRestApplication in 11.432 seconds (process running for 12.997)
+2024-06-25 18:07:47 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:07:47 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:07:47 - Completed initialization in 2 ms
+2024-06-25 18:07:54 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 18:07:54 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 18:09:13 - Solicitud recibida para tipoDocumento: N y numeroDocumento: 1
+2024-06-25 18:09:13 - Tipo de documento inválido: N
+2024-06-25 18:20:34 - Starting PruebaRestApplication using Java 17.0.9 with PID 15804 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:20:34 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:20:44 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:20:44 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:20:44 - Starting service [Tomcat]
+2024-06-25 18:20:44 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:20:45 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:20:45 - Root WebApplicationContext: initialization completed in 10583 ms
+2024-06-25 18:20:47 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:20:47 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:20:47 - Started PruebaRestApplication in 19.495 seconds (process running for 22.167)
+2024-06-25 18:21:06 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:21:06 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:21:06 - Completed initialization in 82 ms
+2024-06-25 18:21:06 - Solicitud recibida para tipoDocumento: N y numeroDocumento: 1
+2024-06-25 18:21:06 - Tipo de documento inválido: N
+2024-06-25 18:21:41 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:21:54 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 
+2024-06-25 18:21:54 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 18:23:48 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:24:00 - Solicitud recibida para tipoDocumento: l y numeroDocumento: 2345322
+2024-06-25 18:24:00 - Tipo de documento inválido: l
+2024-06-25 18:30:02 - Starting PruebaRestApplication using Java 17.0.9 with PID 7772 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:30:02 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:30:09 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:30:09 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:30:09 - Starting service [Tomcat]
+2024-06-25 18:30:09 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:30:10 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:30:10 - Root WebApplicationContext: initialization completed in 7286 ms
+2024-06-25 18:30:13 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:30:13 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:30:13 - Started PruebaRestApplication in 14.283 seconds (process running for 15.832)
+2024-06-25 18:30:27 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:30:27 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:30:27 - Completed initialization in 3 ms
+2024-06-25 18:30:27 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2345322
+2024-06-25 18:30:46 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2345322
+2024-06-25 18:31:41 - Starting PruebaRestApplication using Java 17.0.9 with PID 24928 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:31:41 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:31:48 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:31:48 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:31:48 - Starting service [Tomcat]
+2024-06-25 18:31:48 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:31:49 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:31:49 - Root WebApplicationContext: initialization completed in 7690 ms
+2024-06-25 18:31:51 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:31:51 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:31:51 - Started PruebaRestApplication in 13.209 seconds (process running for 14.84)
+2024-06-25 18:31:57 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:31:57 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:31:57 - Completed initialization in 10 ms
+2024-06-25 18:31:57 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2345322
+2024-06-25 18:32:57 - Starting PruebaRestApplication using Java 17.0.9 with PID 12860 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:32:57 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:33:04 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:33:04 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:33:04 - Starting service [Tomcat]
+2024-06-25 18:33:04 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:33:04 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:33:04 - Root WebApplicationContext: initialization completed in 7221 ms
+2024-06-25 18:33:06 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:33:06 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:33:06 - Started PruebaRestApplication in 12.688 seconds (process running for 14.211)
+2024-06-25 18:33:12 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:33:12 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:33:12 - Completed initialization in 2 ms
+2024-06-25 18:33:13 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2345322
+2024-06-25 18:34:10 - Starting PruebaRestApplication using Java 17.0.9 with PID 2980 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:34:10 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:34:17 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:34:17 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:34:17 - Starting service [Tomcat]
+2024-06-25 18:34:17 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:34:18 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:34:18 - Root WebApplicationContext: initialization completed in 6952 ms
+2024-06-25 18:34:20 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:34:20 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:34:20 - Started PruebaRestApplication in 12.159 seconds (process running for 13.865)
+2024-06-25 18:34:37 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:34:37 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:34:37 - Completed initialization in 3 ms
+2024-06-25 18:34:38 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:34:48 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344322
+2024-06-25 18:36:13 - Starting PruebaRestApplication using Java 17.0.9 with PID 24248 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:36:13 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:36:20 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:36:20 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:36:20 - Starting service [Tomcat]
+2024-06-25 18:36:20 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:36:20 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:36:20 - Root WebApplicationContext: initialization completed in 6277 ms
+2024-06-25 18:36:22 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:36:22 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:36:22 - Started PruebaRestApplication in 12.475 seconds (process running for 14.214)
+2024-06-25 18:36:44 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:36:44 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:36:44 - Completed initialization in 7 ms
+2024-06-25 18:36:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:36:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 18:37:00 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 
+2024-06-25 18:37:00 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NumberFormatException: For input string: ""] with root cause
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:678)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at com.rest.prueba_rest.UserController.getClienteInfo(UserController.java:58)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-06-25 18:37:19 - Solicitud recibida para tipoDocumento:  y numeroDocumento: 
+2024-06-25 18:37:19 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 18:38:15 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:38:22 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 23445322
+2024-06-25 18:38:27 - Solicitud recibida para tipoDocumento: Ñ y numeroDocumento: 23445322
+2024-06-25 18:38:27 - Tipo de documento inválido: Ñ
+2024-06-25 18:41:29 - Starting PruebaRestApplication using Java 17.0.9 with PID 15124 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:41:29 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:41:38 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:41:38 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:41:38 - Starting service [Tomcat]
+2024-06-25 18:41:38 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:41:38 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:41:38 - Root WebApplicationContext: initialization completed in 8640 ms
+2024-06-25 18:41:41 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:41:41 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:41:41 - Started PruebaRestApplication in 14.589 seconds (process running for 16.795)
+2024-06-25 18:41:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:41:48 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:41:48 - Completed initialization in 8 ms
+2024-06-25 18:41:48 - Solicitud recibida para tipoDocumento:  y numeroDocumento: 23445322
+2024-06-25 18:41:48 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 18:41:59 - Solicitud recibida para tipoDocumento: Ñ y numeroDocumento: 23445322
+2024-06-25 18:41:59 - Tipo de documento inválido: Ñ
+2024-06-25 18:42:05 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 23445322
+2024-06-25 18:42:20 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:42:26 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'tipoDocumento' for method parameter type String is not present]
+2024-06-25 18:44:27 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'tipoDocumento' for method parameter type String is not present]
+2024-06-25 18:44:31 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:46:08 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:46:57 - Starting PruebaRestApplication using Java 17.0.9 with PID 24928 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:46:57 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:47:04 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:47:04 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:47:04 - Starting service [Tomcat]
+2024-06-25 18:47:04 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:47:05 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:47:05 - Root WebApplicationContext: initialization completed in 6837 ms
+2024-06-25 18:47:07 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:47:07 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:47:07 - Started PruebaRestApplication in 13.533 seconds (process running for 15.63)
+2024-06-25 18:47:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:47:15 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:47:15 - Completed initialization in 9 ms
+2024-06-25 18:47:16 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:47:24 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 23445322
+2024-06-25 18:47:31 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 
+2024-06-25 18:47:31 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 18:51:37 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:51:46 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1424444
+2024-06-25 18:51:51 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1424444
+2024-06-25 18:52:35 - Stopping ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:53:05 - Starting PruebaRestApplication using Java 17.0.9 with PID 22996 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 18:53:05 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 18:53:12 - Tomcat initialized with port 8090 (http)
+2024-06-25 18:53:12 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:53:12 - Starting service [Tomcat]
+2024-06-25 18:53:12 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 18:53:13 - Initializing Spring embedded WebApplicationContext
+2024-06-25 18:53:13 - Root WebApplicationContext: initialization completed in 7593 ms
+2024-06-25 18:53:15 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 18:53:15 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 18:53:15 - Started PruebaRestApplication in 14.056 seconds (process running for 15.834)
+2024-06-25 18:53:20 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 18:53:20 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 18:53:20 - Completed initialization in 2 ms
+2024-06-25 18:53:20 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 23445322
+2024-06-25 18:53:30 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 18:53:40 - Solicitud recibida para tipoDocumento: P y numeroDocumento: 23445322
+2024-06-25 18:53:52 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 19:12:28 - Starting PruebaRestApplication using Java 17.0.9 with PID 18228 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 19:12:28 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 19:12:35 - Tomcat initialized with port 8090 (http)
+2024-06-25 19:12:35 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:12:35 - Starting service [Tomcat]
+2024-06-25 19:12:35 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 19:12:36 - Initializing Spring embedded WebApplicationContext
+2024-06-25 19:12:36 - Root WebApplicationContext: initialization completed in 7236 ms
+2024-06-25 19:12:38 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:12:38 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 19:12:38 - Started PruebaRestApplication in 12.656 seconds (process running for 14.62)
+2024-06-25 19:12:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 19:12:55 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 19:12:55 - Completed initialization in 7 ms
+2024-06-25 19:12:55 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-25 19:13:06 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 19:13:13 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 
+2024-06-25 19:13:13 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-25 19:14:23 - Starting PruebaRestApplication using Java 17.0.9 with PID 25296 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 19:14:24 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 19:14:31 - Tomcat initialized with port 8090 (http)
+2024-06-25 19:14:31 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:14:31 - Starting service [Tomcat]
+2024-06-25 19:14:31 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 19:14:32 - Initializing Spring embedded WebApplicationContext
+2024-06-25 19:14:32 - Root WebApplicationContext: initialization completed in 7668 ms
+2024-06-25 19:14:35 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:14:36 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 19:14:36 - Started PruebaRestApplication in 15.929 seconds (process running for 17.536)
+2024-06-25 19:14:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 19:14:42 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 19:14:42 - Completed initialization in 8 ms
+2024-06-25 19:21:27 - Starting PruebaRestApplication using Java 17.0.9 with PID 5392 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 19:21:27 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 19:21:38 - Tomcat initialized with port 8090 (http)
+2024-06-25 19:21:38 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:21:38 - Starting service [Tomcat]
+2024-06-25 19:21:38 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 19:21:38 - Initializing Spring embedded WebApplicationContext
+2024-06-25 19:21:38 - Root WebApplicationContext: initialization completed in 10244 ms
+2024-06-25 19:21:42 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:21:42 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 19:21:43 - Started PruebaRestApplication in 18.712 seconds (process running for 20.389)
+2024-06-25 19:22:39 - Starting PruebaRestApplication using Java 17.0.9 with PID 7464 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 19:22:39 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 19:22:46 - Tomcat initialized with port 8090 (http)
+2024-06-25 19:22:46 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:22:46 - Starting service [Tomcat]
+2024-06-25 19:22:46 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 19:22:46 - Initializing Spring embedded WebApplicationContext
+2024-06-25 19:22:46 - Root WebApplicationContext: initialization completed in 6469 ms
+2024-06-25 19:22:49 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:22:49 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 19:22:49 - Started PruebaRestApplication in 12.57 seconds (process running for 15.153)
+2024-06-25 19:22:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 19:22:55 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 19:22:55 - Completed initialization in 2 ms
+2024-06-25 19:23:14 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 19:24:11 - Starting PruebaRestApplication using Java 17.0.9 with PID 10644 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-25 19:24:11 - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 19:24:17 - Tomcat initialized with port 8090 (http)
+2024-06-25 19:24:18 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:24:18 - Starting service [Tomcat]
+2024-06-25 19:24:18 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 19:24:18 - Initializing Spring embedded WebApplicationContext
+2024-06-25 19:24:18 - Root WebApplicationContext: initialization completed in 6465 ms
+2024-06-25 19:24:22 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-25 19:24:22 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-25 19:24:22 - Started PruebaRestApplication in 13.449 seconds (process running for 14.947)
+2024-06-25 19:24:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 19:24:31 - Initializing Servlet 'dispatcherServlet'
+2024-06-25 19:24:31 - Completed initialization in 7 ms
+2024-06-25 19:24:31 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-25 19:24:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
