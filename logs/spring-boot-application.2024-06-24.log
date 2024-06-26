@@ -1,0 +1,208 @@
+2024-06-24 10:31:35 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 
+2024-06-24 10:31:41 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-24 13:09:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:23:33 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:34:24 - Starting PruebaRestApplication using Java 17.0.9 with PID 10448 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 13:34:24 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 13:34:45 - Tomcat initialized with port 8090 (http)
+2024-06-24 13:34:46 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 13:34:46 - Starting service [Tomcat]
+2024-06-24 13:34:46 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 13:34:48 - Initializing Spring embedded WebApplicationContext
+2024-06-24 13:34:48 - Root WebApplicationContext: initialization completed in 22131 ms
+2024-06-24 13:35:04 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 13:35:05 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 13:35:05 - Started PruebaRestApplication in 47.169 seconds (process running for 53.367)
+2024-06-24 13:35:14 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 13:35:14 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 13:35:14 - Completed initialization in 3 ms
+2024-06-24 13:35:15 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:37:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:42:15 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:42:26 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 13:55:07 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:02:11 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:06:51 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:08:00 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:09:18 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:10:18 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:17:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:22:05 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 14:23:41 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 11111111
+2024-06-24 14:23:41 - Cliente no encontrado para numeroDocumento: 11111111
+2024-06-24 15:44:09 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 11111111
+2024-06-24 15:44:09 - Cliente no encontrado para numeroDocumento: 11111111
+2024-06-24 15:49:41 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:06:39 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:06:47 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:11:26 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23.445.322
+2024-06-24 16:11:26 - Cliente no encontrado para numeroDocumento: 23.445.322
+2024-06-24 16:15:21 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1.234.56789
+2024-06-24 16:15:21 - Cliente no encontrado para numeroDocumento: 1.234.56789
+2024-06-24 16:22:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1111111
+2024-06-24 16:22:53 - Cliente no encontrado para numeroDocumento: 1111111
+2024-06-24 16:23:17 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 11111111
+2024-06-24 16:23:17 - Cliente no encontrado para numeroDocumento: 11111111
+2024-06-24 16:24:06 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:31:47 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:37:08 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:38:16 - Starting PruebaRestApplication using Java 17.0.9 with PID 13384 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 16:38:16 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 16:38:23 - Tomcat initialized with port 8090 (http)
+2024-06-24 16:38:23 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 16:38:23 - Starting service [Tomcat]
+2024-06-24 16:38:23 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 16:38:23 - Initializing Spring embedded WebApplicationContext
+2024-06-24 16:38:23 - Root WebApplicationContext: initialization completed in 6350 ms
+2024-06-24 16:38:26 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 16:38:26 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 16:38:26 - Started PruebaRestApplication in 13.024 seconds (process running for 15.276)
+2024-06-24 16:39:28 - Starting PruebaRestApplication using Java 17.0.9 with PID 8796 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 16:39:28 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 16:39:35 - Tomcat initialized with port 8090 (http)
+2024-06-24 16:39:35 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 16:39:35 - Starting service [Tomcat]
+2024-06-24 16:39:35 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 16:39:35 - Initializing Spring embedded WebApplicationContext
+2024-06-24 16:39:35 - Root WebApplicationContext: initialization completed in 6702 ms
+2024-06-24 16:39:37 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 16:39:37 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 16:39:37 - Started PruebaRestApplication in 12.095 seconds (process running for 13.936)
+2024-06-24 16:40:25 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 16:40:25 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 16:40:25 - Completed initialization in 2 ms
+2024-06-24 16:40:25 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:41:31 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:45:29 - Starting PruebaRestApplication using Java 17.0.9 with PID 23840 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 16:45:29 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 16:45:36 - Tomcat initialized with port 8090 (http)
+2024-06-24 16:45:36 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 16:45:36 - Starting service [Tomcat]
+2024-06-24 16:45:36 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 16:45:37 - Initializing Spring embedded WebApplicationContext
+2024-06-24 16:45:37 - Root WebApplicationContext: initialization completed in 6831 ms
+2024-06-24 16:45:39 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 16:45:40 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 16:45:40 - Started PruebaRestApplication in 12.921 seconds (process running for 14.698)
+2024-06-24 16:45:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 16:45:53 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 16:45:53 - Completed initialization in 2 ms
+2024-06-24 16:45:54 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:46:59 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:58:33 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 11111111
+2024-06-24 16:58:33 - Cliente no encontrado para numeroDocumento: 11111111
+2024-06-24 16:59:03 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 16:59:53 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:00:20 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:05:48 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:07:06 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:07:26 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:12:30 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:17:40 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:22:56 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:23:42 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:30:00 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:43:46 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:44:51 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:46:01 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:53:42 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:56:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:57:49 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 17:57:59 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1234567
+2024-06-24 17:57:59 - Cliente no encontrado para numeroDocumento: 1234567
+2024-06-24 18:00:58 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 1234567
+2024-06-24 18:00:58 - Cliente no encontrado para numeroDocumento: 1234567
+2024-06-24 18:09:56 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 18:18:29 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 18:23:05 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 20:43:31 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 
+2024-06-24 20:43:31 - Solicitud inválida: tipoDocumento o numeroDocumento está vacío
+2024-06-24 20:43:47 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 21:37:10 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 21:42:43 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 23:16:44 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 23:19:47 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-24 23:19:47 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-24 23:22:56 - Starting PruebaRestApplication using Java 17.0.9 with PID 7564 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 23:22:56 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 23:23:05 - Tomcat initialized with port 8090 (http)
+2024-06-24 23:23:05 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:23:05 - Starting service [Tomcat]
+2024-06-24 23:23:05 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 23:23:05 - Initializing Spring embedded WebApplicationContext
+2024-06-24 23:23:05 - Root WebApplicationContext: initialization completed in 8279 ms
+2024-06-24 23:23:07 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:23:08 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 23:23:08 - Started PruebaRestApplication in 14.371 seconds (process running for 17.099)
+2024-06-24 23:23:29 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 23:23:29 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 23:23:29 - Completed initialization in 2 ms
+2024-06-24 23:23:29 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-24 23:23:29 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-24 23:24:15 - Starting PruebaRestApplication using Java 17.0.9 with PID 964 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 23:24:15 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 23:24:23 - Tomcat initialized with port 8090 (http)
+2024-06-24 23:24:23 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:24:23 - Starting service [Tomcat]
+2024-06-24 23:24:23 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 23:24:23 - Initializing Spring embedded WebApplicationContext
+2024-06-24 23:24:23 - Root WebApplicationContext: initialization completed in 7499 ms
+2024-06-24 23:24:25 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:24:25 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 23:24:25 - Started PruebaRestApplication in 12.912 seconds (process running for 14.639)
+2024-06-24 23:24:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 23:24:48 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 23:24:48 - Completed initialization in 2 ms
+2024-06-24 23:24:49 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-24 23:24:49 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-24 23:25:25 - Starting PruebaRestApplication using Java 17.0.9 with PID 7252 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 23:25:25 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 23:25:33 - Tomcat initialized with port 8090 (http)
+2024-06-24 23:25:33 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:25:33 - Starting service [Tomcat]
+2024-06-24 23:25:33 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 23:25:33 - Initializing Spring embedded WebApplicationContext
+2024-06-24 23:25:33 - Root WebApplicationContext: initialization completed in 7817 ms
+2024-06-24 23:25:36 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:25:36 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 23:25:36 - Started PruebaRestApplication in 13.906 seconds (process running for 15.671)
+2024-06-24 23:25:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 23:25:42 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 23:25:42 - Completed initialization in 18 ms
+2024-06-24 23:25:43 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-24 23:25:43 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-24 23:26:23 - Starting PruebaRestApplication using Java 17.0.9 with PID 26596 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 23:26:23 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 23:26:31 - Tomcat initialized with port 8090 (http)
+2024-06-24 23:26:31 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:26:31 - Starting service [Tomcat]
+2024-06-24 23:26:31 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 23:26:32 - Initializing Spring embedded WebApplicationContext
+2024-06-24 23:26:32 - Root WebApplicationContext: initialization completed in 8215 ms
+2024-06-24 23:26:34 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:26:34 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 23:26:34 - Started PruebaRestApplication in 13.562 seconds (process running for 15.44)
+2024-06-24 23:27:23 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 23:27:23 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 23:27:23 - Completed initialization in 2 ms
+2024-06-24 23:27:23 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-24 23:27:23 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-24 23:27:46 - Starting PruebaRestApplication using Java 17.0.9 with PID 9640 (C:\Users\cesar\Desktop\REST-SPRING\prueba-rest\target\classes started by cesar in C:\Users\cesar\Desktop\REST-SPRING\prueba-rest)
+2024-06-24 23:27:46 - No active profile set, falling back to 1 default profile: "default"
+2024-06-24 23:27:58 - Tomcat initialized with port 8090 (http)
+2024-06-24 23:27:58 - Initializing ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:27:58 - Starting service [Tomcat]
+2024-06-24 23:27:58 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-24 23:27:59 - Initializing Spring embedded WebApplicationContext
+2024-06-24 23:27:59 - Root WebApplicationContext: initialization completed in 11740 ms
+2024-06-24 23:28:03 - Starting ProtocolHandler ["http-nio-8090"]
+2024-06-24 23:28:03 - Tomcat started on port 8090 (http) with context path '/'
+2024-06-24 23:28:03 - Started PruebaRestApplication in 21.184 seconds (process running for 23.27)
+2024-06-24 23:28:12 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-24 23:28:12 - Initializing Servlet 'dispatcherServlet'
+2024-06-24 23:28:12 - Completed initialization in 2 ms
+2024-06-24 23:28:13 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 23:28:25 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
+2024-06-24 23:28:35 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 2344532
+2024-06-24 23:28:35 - Cliente no encontrado para numeroDocumento: 2344532
+2024-06-24 23:28:59 - Solicitud recibida para tipoDocumento: C y numeroDocumento: 23445322
